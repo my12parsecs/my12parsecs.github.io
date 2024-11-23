@@ -2,7 +2,7 @@
 
 export default function Home() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
+    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)] mt-0">
       <main className="flex flex-col row-start-2 items-center justify-center">
         <h1 className="text-3xl font-mono">Hikaru Imai</h1>
         <div className="mt-2 font-mono"><span>What I am working on: </span><a href="https://bokenmap.com" target="_blank" className="underline text-green-500">Bokenmap</a></div>
