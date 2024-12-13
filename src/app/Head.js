@@ -22,7 +22,7 @@ export default function Head(props){
             <meta name="twitter:description" content={props.description} />
             <meta name="twitter:image:src" content={props.image} />
 
-            {/* <meta name="google-site-verification" content="0jtfyVgU-T82r9lNVcpP3fPgj_6CEOm1DH3tjIi1J8Q" /> */}
+            <meta name="google-site-verification" content="G2qtc4Bo07Twv6RbaR4jPPnZhJTkr38TRKq3IPjj0dA" />
         </>
     )
 }
